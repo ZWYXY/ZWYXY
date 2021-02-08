@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+**Smart projects to make world better!**
+
+> Welcome to mine station!
+
+ 
 <!--
 **ZWYXY/ZWYXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
