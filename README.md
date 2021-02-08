@@ -2,7 +2,7 @@
 
 **Smart projects to make world better!**
 
-> Welcome to mine station!
+> Welcome to my station!
 
  
 <!--
