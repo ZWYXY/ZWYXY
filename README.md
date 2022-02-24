@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Smart projects to make world better!**
+**Smart projects makes world better!**
 
 > Welcome to my station!
 
